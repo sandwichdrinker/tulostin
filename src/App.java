@@ -21,5 +21,13 @@ System.out.println(luku1 + " - " + luku2 +" = "+ erotus);
 System.out.println(luku1 + " * " + luku2 +" = "+ tulo);
 System.out.println(luku1 + " / " + luku2 +" = "+ jako);
 
+ if (nimi.equals("Matti"))
+ {
+     System.out.Println("Matti Meikäläinen on nimesi.")
+         };
+
+        else { System.out.Println("Matti Meikäläinen ei ole nimesi.")
+            }
+
     }
 }
