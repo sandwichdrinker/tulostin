@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-            String tekija = "Anne";
-  
+            String tekija = "Matti";
+  String nimi = "Matti";
 double luku1 = 5;
 double luku2 = 2;
 
@@ -20,5 +20,6 @@ System.out.println(luku1 + " + " + luku2 +" = "+ summa);
 System.out.println(luku1 + " - " + luku2 +" = "+ erotus);
 System.out.println(luku1 + " * " + luku2 +" = "+ tulo);
 System.out.println(luku1 + " / " + luku2 +" = "+ jako);
+
     }
 }
