@@ -27,7 +27,7 @@ System.out.println(luku1 + " / " + luku2 +" = "+ jako);
          };
 
         else { System.out.Println("Matti Meikäläinen ei ole nimesi.")
-            }
+            };
 
     }
 }
